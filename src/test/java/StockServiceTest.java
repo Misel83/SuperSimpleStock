@@ -16,7 +16,7 @@ import all.exception.SuperSimpleException;
 import all.pojo.TradeRecord;
 
 /**
- * Test for
+ * Test for StockService verification
  */
 public class StockServiceTest {
 
